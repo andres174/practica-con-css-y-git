@@ -8,5 +8,17 @@ h1 {
 h2 {
   font: bold 14px verdana, sans-serif;
 }
+#agrupar{
+  margin: 0 auto;
+  
+  width: 70%;
+  border: 3px solid black;
+  padding: 10px;
+}
+#cabecera{
+  background-color: rgba(224, 198, 83, 0.863);
+  padding: 20px;
+  border: 1px solid rgba(126, 110, 40, 0.863);
+}
 
 
