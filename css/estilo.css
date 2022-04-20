@@ -20,5 +20,25 @@ h2 {
   padding: 20px;
   border: 1px solid rgba(126, 110, 40, 0.863);
 }
+#menu{
+  background-color: rgb(175, 172, 172);
+  
+}
+ul, li{
+  display: inline-block;
+  background-color: rgb(175, 172, 172);
+  padding: 4px;
+  font: bold 14px verdana, sans-serif;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+
+li:hover{
+  background: rgba(224, 198, 83, 0.863);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
 
 
